@@ -39,3 +39,13 @@
 ![image](https://github.com/user-attachments/assets/ece4441f-66ea-4cf5-9cba-846b324334c6)
 ![image](https://github.com/user-attachments/assets/6945e134-e732-44a5-8d44-5327f7bcbd59)
 ![image](https://github.com/user-attachments/assets/dc8d7b5b-a7cc-4ee3-9638-6dc8661e4d13)
+
+## Part3 - Менее приятные дополнения
+1. Цикл DO ... I ... LOOP
+   
+![image](https://github.com/user-attachments/assets/c1b428b3-2ecb-4f95-931b-f156ef10bc27)
+
+2. Игнорирование комментариев при парсинге
+
+![image](https://github.com/user-attachments/assets/0173b9aa-6b82-4234-8f89-61ebc7f8e772)
+
